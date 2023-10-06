@@ -1,4 +1,4 @@
-package com.example.cote.level2;
+package com.example.cote.level2.before;
 
 public class test {
 
