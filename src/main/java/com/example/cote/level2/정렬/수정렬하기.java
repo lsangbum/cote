@@ -1,4 +1,4 @@
-package com.example.cote.level2;
+package com.example.cote.level2.정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
